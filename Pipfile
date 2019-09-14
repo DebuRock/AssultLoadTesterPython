@@ -12,6 +12,7 @@ black = "*"
 click = "*"
 requests = "*"
 http-request = "*"
+stats = "*"
 
 [requires]
 python_version = "3.7"
