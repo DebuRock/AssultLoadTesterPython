@@ -10,6 +10,8 @@ black = "*"
 
 [packages]
 click = "*"
+requests = "*"
+http-request = "*"
 
 [requires]
 python_version = "3.7"
